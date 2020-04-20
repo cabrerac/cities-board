@@ -1,6 +1,6 @@
 # Cities-Board Eclipse Plugin
 
-This repository contains the Cities-Board Eclipse plugin, which enables the installation and use of Cities-Board.
+This repository contains the Cities-Board Eclipse plugin, which enables the installation and use of Cities-Board, a tool that automates the development of graphic dashboards for smart cities. If you are interested on extend the Cities-Board project, you should visit our [cities-board-dev](https://github.com/cabrerac/cities-board-dev) repository.
 
 ## Requirements
 
