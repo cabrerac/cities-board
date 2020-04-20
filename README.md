@@ -6,7 +6,7 @@ This repository contains the Cities-Board Eclipse plugin, which enables the inst
 
 Cities-Board was developed on top of the Eclipse Modelling Framework (EMF). Please install Eclipse following the next steps:
 
-1. Please download the latest version of the [Eclipse Installer] (https://www.eclipse.org/downloads/packages/installer).
+1. Please download the latest version of the [Eclipse Installer](https://www.eclipse.org/downloads/packages/installer).
 2. Open the installer and select the Eclipse Modelling Tools package.
 3. Click on Install.
 
@@ -14,7 +14,7 @@ Cities-Board was developed on top of the Eclipse Modelling Framework (EMF). Plea
 
 Please follow the next steps to install Cities-Board in Eclipse:
 
-1. Download the file [cities-board-update.zip] (https://github.com/cabrerac/cities-board/blob/master/cities-board-update.zip) from this repository.
+1. Download the file [cities-board-update.zip](https://github.com/cabrerac/cities-board/blob/master/cities-board-update.zip) from this repository.
 2. Open Eclipse and Click on Help -> Install New Software.
 3. Click on Add -> Archive -> Select the file cities-board-update.zip from your file system.
 4. Click on Next and follow the installation wizard.
@@ -37,5 +37,5 @@ You can generate the code for the modeled dashboard once it is ready, following 
 2. Select the path where you want to save the generated code.
 3. Select the model to transform
 
-A success message should be displayed, you can find the ASP.Net project that implements your dashboard in the folder specified before.
+A success message confirms the code generation, you can find the ASP.Net project that implements your dashboard in the path specified in the step 2.
   
