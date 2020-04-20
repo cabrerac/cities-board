@@ -6,7 +6,7 @@ This repository contains the Cities-Board Eclipse plugin, which enables the inst
 
 Cities-Board was developed on top of the Eclipse Modelling Framework (EMF). Please install Eclipse following the next steps:
 
-1. Please download the latest version of the [Eclipse Installer](https://www.eclipse.org/downloads/packages/installer).
+1. Download the latest version of the [Eclipse Installer](https://www.eclipse.org/downloads/packages/installer).
 2. Open the installer and select the Eclipse Modelling Tools package.
 3. Click on Install.
 
